@@ -8,7 +8,6 @@
 - Plugin type: Editor-only
 - Platforms: Windows
 
-> This product was created with the assistance of generative AI tools.
 
 ---
 
